@@ -39,7 +39,9 @@ public class Main
 	
 	
 	/**
-	 * @param args
+	 * The main method.
+	 *
+	 * @param args the args
 	 */
 	public static void main (String[] args)
 	{

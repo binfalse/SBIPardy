@@ -63,6 +63,7 @@ public class JeopardyTaskPanelSound
 		
 		try
 		{
+			System.out.println (f);
 			AudioInputStream in = AudioSystem.getAudioInputStream (f);
 			
 			AudioInputStream din = null;
